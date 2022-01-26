@@ -2,4 +2,4 @@
 
 ![Why](why.png)
 
-![IT'S SO BIG!](so-big.png)
+![IT'S SO BIG!](its-so-big.png)
